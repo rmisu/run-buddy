@@ -1,15 +1,18 @@
 # Run Buddy, Inc
 
-##Purpose
+## Purpose
+
 A website that offers fitness training services.
 
-##Built With
+## Built With
+
 HTML
 CSS
 
-##Website
+## Website
 
-##Contribution
+## Contribution
+
 Ryan Rogers
 
 ©️2022 Run Buddy, Inc
